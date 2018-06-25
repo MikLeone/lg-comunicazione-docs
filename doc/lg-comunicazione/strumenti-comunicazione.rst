@@ -6,5 +6,5 @@ Arrivati a questo punto puoi utilizzare i differenti strumenti di comunicazione 
 .. toctree::
    :maxdepth: 2
 
-   comunicazione-offline
-   comunicazione-digitale
+   lg-comunicazione/comunicazione-offline
+   lg-comunicazione/comunicazione-digitale
