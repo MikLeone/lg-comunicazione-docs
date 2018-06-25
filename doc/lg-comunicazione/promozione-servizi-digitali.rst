@@ -7,6 +7,6 @@ La Comunicazione è la leva strategica per la promozione dei servizi pubblici di
 .. toctree::
    :maxdepth: 2
 
-   lg-comunicazione/piano-comunicazione
-   lg-comunicazione/strumenti-comunicazione
-   lg-comunicazione/analytics
+   doc/lg-comunicazione/piano-comunicazione
+   doc/lg-comunicazione/strumenti-comunicazione
+   doc/lg-comunicazione/analytics
