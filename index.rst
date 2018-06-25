@@ -13,12 +13,6 @@ Linee Guida per la Promozione dei Servizi Digitali
 
    doc/intro_linee-guida
    doc/intro_consultazione
-
-|
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Documento in consultazione
-        
-   doc/promozione-servizi-digitali
-   doc/glossario
+   lg-comunicazione/promozione-servizi-digitali
+   lg-storytelling
+   lg-marketing
