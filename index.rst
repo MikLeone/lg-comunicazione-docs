@@ -13,6 +13,6 @@ Linee Guida per la Promozione dei Servizi Digitali
 
    doc/intro_linee-guida
    doc/intro_consultazione
-   lg-comunicazione/promozione-servizi-digitali.rst
+   lg-comunicazione/promozione-servizi-digitali
    lg-storytelling
    lg-marketing
