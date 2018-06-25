@@ -1,5 +1,3 @@
-Linee Guida per la Promozione dei Servizi Digitali
-+++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
@@ -11,8 +9,9 @@ Linee Guida per la Promozione dei Servizi Digitali
 .. toctree::
    :maxdepth: 3
 
-   doc/intro_linee-guida
+    
+   doc/intro_linee-guida 
    doc/intro_consultazione
-   lg-comunicazione/promozione-servizi-digitali
-   lg-storytelling
-   lg-marketing
+   doc/lg-comunicazione/promozione-servizi-digitali
+   doc/lg-storytelling
+   doc/lg-marketing
